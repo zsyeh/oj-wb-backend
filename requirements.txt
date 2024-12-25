@@ -1,0 +1,7 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+pandas
+django-cors-headers
+openpyxl
+# use Python 3.12.4

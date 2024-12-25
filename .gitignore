@@ -1,0 +1,13 @@
+*.db
+*.sqlite3
+*.xlsx
+students_report.html
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyz.d
+.vscode/
